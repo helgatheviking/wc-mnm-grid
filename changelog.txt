@@ -1,0 +1,4 @@
+=== WC Mix and Match Grid ===
+
+2017.10.23 - version 1.0.0-beta
+ * First Release
