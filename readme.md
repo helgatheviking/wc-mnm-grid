@@ -11,6 +11,8 @@
 
 Display mix and match products in a grid
 
+![T-shirt mix and match bundle showing different t-shirts in a grid](https://screenshots.firefoxusercontent.com/images/b5add1e7-3b84-453d-83da-60f68bfb5d4e.png)
+
 ## Description ##
 
 As soon as the plugin is activated, all Mix and Match products will display in a grid instead of a table.
