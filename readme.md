@@ -11,7 +11,7 @@
 
 Display mix and match products in a grid
 
-![T-shirt mix and match bundle showing different t-shirts in a grid](https://screenshots.firefoxusercontent.com/images/b5add1e7-3b84-453d-83da-60f68bfb5d4e.png)
+![T-shirt mix and match bundle showing different t-shirts in a grid](https://user-images.githubusercontent.com/507025/34388701-2f7301c0-eb03-11e7-9c2b-200c43a0e675.png)
 
 ## Description ##
 
